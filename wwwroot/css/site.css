@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+
+.alert {
+    margin-top: 20px;
+}
+
+.table thead th {
+    background: #000000; /* solid black background */
+    color: #ffffff; /* white text */
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    text-align: center;
+    border: none;
+    padding: 12px 10px;
+}
